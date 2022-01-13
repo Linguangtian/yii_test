@@ -1,0 +1,17 @@
+沙箱   www.sandbox.paypal.com/cgi-bin/webscr
+
+账户 sb-kfusx4558755@personal.example.com  nee123321
+
+沙箱API  https://api-m.sandbox.paypal.com
+
+
+
+
+商户 https://www.sandbox.paypal.com/us/home 
+sb-b1k9p4560705@business.example.com -e+#eLp8
+
+
+
+
+
+正式
